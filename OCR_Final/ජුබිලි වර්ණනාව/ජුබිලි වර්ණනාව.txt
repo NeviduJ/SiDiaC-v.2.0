@@ -1,56 +1,53 @@
 
-					ජුබිලි වර්ණනාව.
-					
-				JUBILEE WARNAN A WA.
 
-	1 ගීය. I Song වෘත්තය - ලායසස්සා.
+	1 ගීය.<eos> I Song වෘත්තය - ලායසස්සා.<eos>
 1 කා කත නම් දෙව් - දැන්මගේ මුවේ
-	වසන්ට සුදුස්සීම බැව් දන්වා දෙනුයෙහේ.
+	වසන්ට සුදුස්සීම බැව් දන්වා දෙනුයෙහේ.<eos>
 
 Mayest thou Saraswati make it known that thou
 	art the right one to make my month thy abode.
 
 2 මා මුවගේ වාසවි-කම්මැලී උනොත්
-	කුමක් ද පලේ බැද්දෙ සෙව්වන්ඳී පිපුන මෙන්?
+	කුමක් ද පලේ බැද්දෙ සෙව්වන්ඳී පිපුන මෙන්?<eos>
 
 Whilst thou remainest in my mouth abode, if thou be
 	indolent, of what use wouldst thou be, like unto a
 	Sewwandi flower blown in the Jungul, ?
 
 3 මේ මුලුලෝ එක් හෙලා - මෙන් මගුල් ගෙයක්
-	තිබෙද්දී සතොස් වී කියන්හි රම්බරි උදක්.
+	තිබෙද්දී සතොස් වී කියන්හි රම්බරි උදක්.<eos>
 
 When the whole world is like unto a feast, darling, be joyous
 	and sing songs earnestly.
 
 4 සව්සිරියෙන් සාර වූ - එංගලන්තයේ
-	ඔටුන්න හිමි රාජිනින්වා දෙන්තුතිලියේ.
+	ඔටුන්න හිමි රාජිනින්වා දෙන්තුතිලියේ.<eos>
 
 Give thanks to Her Majesty, to whom belongs the crown of
 	England, a country abounding in wealth.
 
 5. සිංහලයෙන් ඒ කියන් - ඉල්ලමින් දිගා
-	සිටින්ට පණවස් තවත් සිංහාසනේ පිටා
+	සිටින්ට පණවස් තවත් සිංහාසනේ පිටා.<eos>
 
 Say thy praises in Sinhalese, wishing Her Majesty long
 	life, so that she may occupy the English throne for
 	another fifty years.
 
 6 මේ රට දැන් පාලනා - නම් ගරු උතුම්
-	ලකින්දුවරම් ඒ අරන් සිත් සේ කියන්තුති.
+	ලකින්දුවරම් ඒ අරන් සිත් සේ කියන්තුති.<eos>
 
 Having obtained permission of that Great Chief who governs
 	the Island now, say thy praises as thou pleasest.
 
-		2. ගීය. II Song, වෘත්තය - ඌරොගියෙ උස
+		2. ගීය.<eos> II Song, වෘත්තය - ඌරොගියෙ උස
 
 7. තුම්කිත් නලගණ කිවි ගොසඛෙන සද්දකන්සදා -
 				අපමහ රාජිනින්ගෙ මේ
-ආලෙන් නටනා කල්හි මෙලෝ රංග මණ්ඩලේ.
+ආලෙන් නටනා කල්හි මෙලෝ රංග මණ්ඩලේ.<eos>
 
 8 ඉක්මන්කර කරකැවෙත විසුල වූ මුතුහරා -
 				බැඳගෙණ උන්න ඈගෙලා,
-නීලම්බරයේ පේණතරු වැල් එකායුරා.
+නීලම්බරයේ පේණතරු වැල් එකායුරා.<eos>
 
 	The stars that spangle in the blue heavens are like unto the
 		necklace of pearls, which our Great Sovereign's fame
@@ -60,7 +57,7 @@ Having obtained permission of that Great Chief who governs
 
 9 මේ සිංහල දිවඹුර සුදිලෙන රාජිනි සඳුන් - 
  				ගුණකිරණින් නිමල් ලකල්
-නෙක්මන් කොඳ පුල්වීය අසව් දී තුති නොමින්.
+නෙක්මන් කොඳ පුල්වීය අසව් දී තුති නොමින්.<eos>
 
 	By the beautiful and pure ray-like virtues of Her Majesty
 		who is like unto the moon that adorns the sky of the Sinha-
@@ -68,7 +65,7 @@ Having obtained permission of that Great Chief who governs
 
 10 පාමින් නැණ සුරගුරු ලෙසනය සාදවා විමල් -
 				මනුනය මෙන් නීතිලකල්,
-රක්නා අපරාජේශ්වරිගේ පා පියුම් වඳිව්.
+රක්නා අපරාජේශ්වරිගේ පා පියුම් වඳිව්.<eos>
 
 	Bow unto the lotus-fect of our Great Queen, who protects
 		us by causing laws that are admirable like those of Manu
@@ -77,37 +74,37 @@ Having obtained permission of that Great Chief who governs
 
 11 ආවොත් රුපුරද යුදකරණට රාජිනීන්කරා-
 				අපමහ රාජිනී කරා,
-වැස්මක්යර ලෝ වෙන්නෙ නැතා උන්හට මෙදා.
+වැස්මක්යර ලෝ වෙන්නෙ නැතා උන්හට මෙදා.<eos>
 	If inimical kings were to approach Her Majesty to make
 		war, they would have no abode in this human world.
 
-	3 ගිය. III Song. වෘත්තය-රාජාහුන්මය්.
+	3 ගිය.<eos> III Song.<eos> වෘත්තය-රාජාහුන්මය්.<eos>
 
 12 දෑතා ශ්‍රී රාජෙශ්වරී කප්රුක සේ දානෙන්
-	මන් ලොබ බින්ද, ලදු ගින් සිඳා දමා දුක්කන්.
+	මන් ලොබ බින්ද, ලදු ගින් සිඳා දමා දුක්කන්.<eos>
 
 	In alms giving the two hands of the blessed Sovereign are
 		like unto the Kalpa Vriksa (a heavenly tree.) The desires
 		of the poor are gratified by the removal of grief.
 
 13 මාතා ලක්දිව් සත්හටා ඉංග්‍රිසි ජාතියේ
-	සුන්දර වූ රාජෙශ්වරී දේවව්තුති බෝසේ.
+	සුන්දර වූ රාජෙශ්වරී දේවව්තුති බෝසේ.<eos>
 
 	Praise well the good Queen of England who is like unto a
 		mother to the natives of Lanka.
 
 14 ගිල්වාලා බෝගම්බරේ දිව් වනසන්නේ නැ
-	උන් පෙර රාජා සේලකේ උදාර මෙන් ඇන්නෑ
+	උන් පෙර රාජා සේලකේ උදාර මෙන් ඇන්නෑ.<eos>
 
 	Her Majesty does not destroy lives by drowning in Bogam-
 		bara lake as the king of Lanka did in by-gone days
 		affected with vanity.
 
 15 යුක්තා යුත්තෙන් බේරලා ඤාණ තුළා හීලා
-	පින්කෙතවන් රාජෙශ්වරී නිමල්ගුණේ පාලා.
+	පින්කෙතවන් රාජෙශ්වරී නිමල්ගුණේ පාලා.<eos>
 
 16 සර් ආතර් ගෝර්ඩන්තුමා ලක්දිව ආණ්ඩුවේ
-	තුම් ලකිඳුස්සේ පත්කළා අපේ පිණක් ඒ වේ.
+	තුම් ලකිඳුස්සේ පත්කළා අපේ පිණක් ඒ වේ.<eos>
 
 	Weighing in the Scales of wisdom Her Majesty discerns
 		justice from injustice, and having shown kindness Her
@@ -117,18 +114,18 @@ Having obtained permission of that Great Chief who governs
 		
 
 17 මේලෝ මැව් ඒ දෙව්තුමා සෙත් සලසා ප්‍රේමෙන්
-	රම්බර වූ රාජෙශ්වරි රකිත් දිගාඳීමෙන්!
+	රම්බර වූ රාජෙශ්වරි රකිත් දිගාඳීමෙන්!<eos>
 
 	May that great God who created this world grant peace
 		and protect Her Majesty by giving long life!
 
 
 
-		4 ගිය. IV Song, වෘත්තය ගසෙය්යා.
+		4 ගිය.<eos> IV Song, වෘත්තය ගසෙය්යා.<eos>
 
 18 දේවාශිර්වාදයෙනා සීනකින්වත් දුක් නොයෙදී-
 				සීනකින්වත් දුක් නොයෙදී
-වස්සියයක් ඉටපත තුංග අපේ රාජෙශ්වරී.
+වස්සියයක් ඉටපත තුංග අපේ රාජෙශ්වරී.<eos>
 
 	Pray that our Great Queen may live for a century, and that
 		she may not experience any sorrow even in a dream by
@@ -136,7 +133,7 @@ Having obtained permission of that Great Chief who governs
 
 19 පන්නාලා දාමු අපි හෙල්වල ස්වන් වූ සෙනග -
 				හෙල් වලස් වන් වූ සෙනගා
-ලක්දිව මේ උන්ට ගියොත් සිංහලයා කායහිඟා.
+ලක්දිව මේ උන්ට ගියොත් සිංහලයා කායහිඟා.<eos>
 
 	Let us drive away the people who are like unto the Polar
 		bear, for, if Lanka were to go under their sway, the
@@ -144,7 +141,7 @@ Having obtained permission of that Great Chief who governs
 
 20 ඉංග්‍රීසි ආණ්ඩු සොඳා රාජ ධම්මෙන් සත්රකිණා
 				රාජධම්මෙන් සත්රකිණා,
-පෙන්වමු කී කෝරු අයින් බැව් යුදයක් වන් එදිනා.
+පෙන්වමු කී කෝරු අයින් බැව් යුදයක් වන් එදිනා.<eos>
 
 	The English Government, that rules the subjects with (ten)
 		royal virtues, is good, and if war ever breaks out, let us
@@ -152,7 +149,7 @@ Having obtained permission of that Great Chief who governs
 
 21 ලෙව්කේ ආදී උතුමෝ උනො සුඬෙන් නම්දරලා,
 				උන්නො සුද්ධෙන් නම්දරලා,
-සිංහලයා දිව්වෙ නැතේ ඉස්සර නම් පස්සබලා
+සිංහලයා දිව්වෙ නැතේ ඉස්සර නම් පස්සබලා.<eos>
 
 	There were great men that distinguished themselves in war,
 		such as General Leuka, and in days of yore the Sinhalese
@@ -161,7 +158,7 @@ Having obtained permission of that Great Chief who governs
 
 22 පාගාලාදාමු රුපුන්තුංග ඉංග්‍රිස් රාජිනීන්ගේ-
 				තුංග ඉංග්‍රීස් රාජිනීන්ගේ,
-ස්තුතියෙන් ඉම්මු දිගා ඉල්ලමිනා දිව් හෙලගේ.
+ස්තුතියෙන් ඉම්මු දිගා ඉල්ලමිනා දිව් හෙලගේ.<eos>
 
 	Let us trample under our feet the enemy of her Majesty the
 		English Queen, and with thanks, remain in the house of
@@ -169,19 +166,19 @@ Having obtained permission of that Great Chief who governs
 
 23 කා බී සන්තෝසවෙමු ප්‍රශංසා රාජිනිත්වා -
 				දී ප්‍රශංසා රාජිනින්ටා
-සෙත් සිරියෙන් ඉන්ට පතා දැන් යදිමු දෙව් පිහිටා
+සෙත් සිරියෙන් ඉන්ට පතා දැන් යදිමු දෙව් පිහිටා.<eos>
 
 	Let us eat and drink and be merry, giving praises to Her
 		Majesty and let us pray to God that Her Majesty may
 		live in peace and prosperity.
 
 	
-		5 ගිය.V Song වෘත්තය- සගෞමබාර.
+		5 ගිය.<eos>V Song වෘත්තය- සගෞමබාර.<eos>
 
 24 නෙක් දේශ කීර්තියෙන්ම ආණ්ඩුවේ යොදා
 	සුරු ඤාණවන්ත මන්ත්‍රීයන් පිරිවරා
 	සොඳ එංගලන්ත දේශ වාසනම් ගරූම හේසිකා
-	රක්ෂා කෙරේවා නිත්සුරේන්දරා!
+	රක්ෂා කෙරේවා නිත්සුරේන්දරා!<eos>
 
 	May God always protect Her Majesty under whose sway is
 		good England and who, surrounded by clever and sapient
@@ -191,7 +188,7 @@ Having obtained permission of that Great Chief who governs
 25 දික්කගෙ ගිවයන්හි කිත් හරා සරා
 	දශ ධර්මයෙන්ම ආණ්ඩු සාදවා ලනා
 	සොඳ එංගලන්ත දේශ බාර නම් ගරූම හේසිකා
-	රක්ෂා කෙරේවා නිත්සුරේන්දරා!
+	රක්ෂා කෙරේවා නිත්සුරේන්දරා!<eos>
 
 	May God always protect Her Majesty under whose sway is.
 		good England, who ties the fame pearl necklace round the
