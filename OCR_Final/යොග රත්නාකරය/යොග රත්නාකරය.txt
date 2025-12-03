@@ -4,16 +4,16 @@
 
 වෙදොත්පත්තිය.<eos>
 
-ර<psi>තැ<psi>ඟි<psi>ලි පෙ<psi>ති වි<psi>හි<psi>දී 
-ද<psi>හ<psi>ස<psi>ක් දැ<psi>වි කෙස<psi>රු රැ<psi>ඳී 
-ස<psi>ක්<psi>කෙ<psi>මි යෙ<psi>න් වො<psi>රැ<psi>දි
-ව<psi>ඳි<psi>ම් සි<psi>රි<psi>පා පි<psi>යු<psi>ම් මන බැ<psi>ඳී 
+ර<psi>තැ<psi>ඟි<psi>ලි පෙ<psi>ති වි<psi>හි<psi>දී <eos>
+ද<psi>හ<psi>ස<psi>ක් දැ<psi>වි කෙස<psi>රු රැ<psi>ඳී <eos>
+ස<psi>ක්<psi>කෙ<psi>මි යෙ<psi>න් වො<psi>රැ<psi>දි<eos>
+ව<psi>ඳි<psi>ම් සි<psi>රි<psi>පා පි<psi>යු<psi>ම් මන බැ<psi>ඳී <eos>
 
 2
-පිහිටි ගුණ තිරස<psi>ර
-කළසව් කුලන් පිරිව<psi>ර 
-විහිදි රැස් මනහ<psi>ර 
-වඳිම් සිරිගත සුතෙර හැමව<psi>ර
+පිහිටි ගුණ තිරස<psi>ර<eos>
+කළසව් කුලන් පිරිව<psi>ර <eos>
+විහිදි රැස් මනහ<psi>ර <eos>
+වඳිම් සිරිගත සුතෙර හැමව<psi>ර<eos>
 
 3
 පදරුත් මිණි පව<psi>ර
