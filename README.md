@@ -1,4 +1,4 @@
-## SDC: Sinhala Diachronic Corpus
+## SiDiaC-v.2.0: Sinhala Diachronic Corpus Version 2.0
 
 A curated collection of Sinhala literary texts and related resources with OCR outputs and basic metadata for each work. This repository organizes original PDFs alongside finalized OCR text and machine-readable `metadata.json` files per title.
 
