@@ -1,5 +1,7 @@
 ## SiDiaC-v.2.0: Sinhala Diachronic Corpus Version 2.0
 
+> **Note:** The latest corpus statistics can be found at [https://arxiv.org/abs/2603.10861](https://arxiv.org/abs/2603.10861), superseding the figures reported in the main paper referenced below.
+
 A curated collection of Sinhala literary texts and related resources with OCR outputs and basic metadata for each work. This repository organizes original PDFs alongside finalized OCR text and machine-readable `metadata.json` files per title.
 
 Paper: [https://aclanthology.org/2026.lrec-1.537/](https://aclanthology.org/2026.lrec-1.537/) (DOI: [10.63317/2ybff4o55vrq](https://doi.org/10.63317/2ybff4o55vrq))
@@ -11,6 +13,14 @@ Paper: [https://aclanthology.org/2026.lrec-1.537/](https://aclanthology.org/2026
 - `OCR_Final/`: Finalized OCR results per title, each directory containing:
   - `metadata.json`: Minimal bibliographic and processing metadata
   - `<title>.txt`: Plain text content extracted via OCR
+- `Code Analysis/`: Jupyter notebooks used to build and analyze the corpus:
+  - `Connect_processor.ipynb`: Runs source PDFs through Google Cloud Document AI to generate the OCR text.
+  - `Create_Folders.ipynb`: Organizes raw OCR output into one folder per title with a `metadata.json`.
+  - `Metadata_Analysis.ipynb`: Scans `OCR_Final/` and summarizes titles by written-date availability.
+  - `Page_Counts.ipynb`: Extracts per-title PDF page counts from `Books_PDF/`.
+  - `Corpus_Analysis.ipynb`: Computes word/sentence counts, century-wise statistics, and corpus-vs-corpus comparisons.
+  - `Collocate_Analysis.ipynb`: Builds century-wise co-occurrence/collocate statistics and significance (z-score) filtering.
+  - `Collocate_Table.ipynb`: Formats curated collocate subsets into LaTeX tables.
 
 ### Example metadata.json
 ```json
